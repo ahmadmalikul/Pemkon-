@@ -1,11 +1,11 @@
 # Pemkon-
-# 🚦 Sistem Safety Pengereman Motor
+# Sistem Safety Pengereman Motor
 
-Proyek ini merupakan implementasi sistem **pengereman otomatis untuk sepeda motor** berbasis mikrokontroler STM32. Sistem ini dirancang untuk meningkatkan keselamatan pengendara dengan mendeteksi objek di depan secara otomatis menggunakan sensor, dan mengaktifkan rem menggunakan solenoid actuator.
+Proyek ini merupakan implementasi sistem ** safety pengereman untuk sepeda motor** berbasis mikrokontroler STM32. Sistem ini dirancang untuk meningkatkan keselamatan pengendara dengan mendeteksi objek di depan secara otomatis menggunakan sensor, dan mengaktifkan rem menggunakan solenoid actuator.
 
 ---
 
-## 🧩 Komponen Utama
+## Komponen Utama
 
 - **STM32F446RE** – Mikrokontroler sebagai pusat kontrol dan pemrosesan logika.
 - **Sensor Ultrasonik (HC-SR04)** – Mengukur jarak objek di depan kendaraan.
